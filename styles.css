@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+}
+.mx-auto{
+    margin-top:80px;
+}
+.margin{
+    margin-top: 30px;
+    width: 30vw;
+}
+#generated_span {
+    width: 40vw !important;
+}
